@@ -2,4 +2,4 @@ Modernizing a local business's landing page. I asked if I could do it for them b
 
 Current site: www.bergsteinenterprises.com
 
-I'll have the new look up when it's finished.
+You can see the work in progress <a href="http://production.bergstein.divshot.io/">here</a>.
