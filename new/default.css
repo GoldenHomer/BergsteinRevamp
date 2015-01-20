@@ -56,6 +56,11 @@ a:hover {
 	width: 100%;
 }
 
+img {
+	vertical-align: middle;
+	padding-top: 25px;
+}
+
 .image-full {
 	display: block;
 	width: 100%;
@@ -214,7 +219,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 
 #wrapper {
 	position: relative;
-	padding: 5em 0em 7em 0em;
+	padding: 2em 0em 1em 0em;
 	background: #FFF;
 }
 
