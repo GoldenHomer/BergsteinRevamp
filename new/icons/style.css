@@ -1,0 +1,18 @@
+a.visit { padding:10px 18px;  background:#ef7748; color: #fff; text-decoration: none; font-style: 13px; font-weight: bold; border-radius: 4px; display: inline-block; margin-top: 50px; }
+a.visit:hover { background: #d25a2c;}
+
+.mud-social { list-style: none; padding: 0; margin-left: auto; margin-right: auto; overflow: hidden; width: 150px}
+.mud-social li { float: left; margin-left: 5px; }
+.mud-social li:nth-child(1) { margin-left: 0;}
+.mud-social li a { width:44px; height: 44px; display: block; background:url("images/social-media-pack-html.png") no-repeat; text-indent: -9999px; }
+li.twitter a { background-position: -44px 0}
+li.twitter a:hover { background-position: -44px -44px}
+li.googleplus a { background-position: -88px 0}
+li.googleplus a:hover { background-position: -88px -44px}
+li.linkedin a { background-position: -132px 0}
+li.linkedin a:hover { background-position: -132px -44px}
+
+/* Only High-Res Display - Retina Screens*/
+@media screen and (max-device-width: 1180px), only screen and (min-resolution: 120dpi)  {
+.mud-social li a { background:url("images/social-media-pack-html.svg") no-repeat;}
+}
