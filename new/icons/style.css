@@ -1,4 +1,13 @@
-a.visit { padding:10px 18px;  background:#ef7748; color: #fff; text-decoration: none; font-style: 13px; font-weight: bold; border-radius: 4px; display: inline-block; margin-top: 50px; }
+a.visit { 
+	padding:10px 18px;  
+	background:#ef7748; 
+	color: #fff; 
+	text-decoration: none; 
+	font-style: 13px; 
+	font-weight: bold; 
+	border-radius: 4px; 
+	display: inline-block; 
+	margin-top: 50px; }
 a.visit:hover { background: #d25a2c;}
 
 .mud-social { list-style: none; padding: 0; margin-left: auto; margin-right: auto; overflow: hidden; width: 150px}
